@@ -4,5 +4,4 @@ theme: minima
 header_pages:
   - project-overview.md
   - robotplus-testfield.md
-  - equipment.md
   - company-support.md
