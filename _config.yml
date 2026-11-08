@@ -2,6 +2,6 @@ title: AI휴머노이드안전보안지원센터
 description: "AI 휴머노이드 안전성 및 보안 평가 기반 구축 사업"
 theme: minima
 header_pages:
-  - project-overview.md
+  - project-introduction/project-introduction.md
   - robotplus-testfield.md
   - company-support.md
